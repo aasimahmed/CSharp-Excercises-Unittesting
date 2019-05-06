@@ -1,0 +1,17 @@
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\StudentTest.dll
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\StudentTest.pdb
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Q1_Exercise14.exe
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Q1_Exercise14.pdb
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Q1_Exercise14.exe.config
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\obj\Debug\StudentTest.csprojAssemblyReference.cache
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\obj\Debug\StudentTest.csproj.CoreCompileInputs.cache
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\obj\Debug\StudentTest.csproj.CopyComplete
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\obj\Debug\StudentTest.dll
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\StudentTest\obj\Debug\StudentTest.pdb
