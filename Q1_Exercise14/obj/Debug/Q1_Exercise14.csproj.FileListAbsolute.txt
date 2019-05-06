@@ -1,0 +1,7 @@
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\Q1_Exercise14\bin\Debug\Q1_Exercise14.exe.config
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\Q1_Exercise14\bin\Debug\Q1_Exercise14.exe
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\Q1_Exercise14\bin\Debug\Q1_Exercise14.pdb
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\Q1_Exercise14\obj\Debug\Q1_Exercise14.csprojAssemblyReference.cache
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\Q1_Exercise14\obj\Debug\Q1_Exercise14.csproj.CoreCompileInputs.cache
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\Q1_Exercise14\obj\Debug\Q1_Exercise14.exe
+C:\Users\aahme\Desktop\C# Nakov excercises\Exercise_14-Classes\Q1_Exercise14\Q1_Exercise14\obj\Debug\Q1_Exercise14.pdb
